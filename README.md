@@ -1,6 +1,5 @@
 #  About Me:
-Computer Science undergraduate with strong foundations in Python, SQL, databases, and data processing. Experienced in building automated data pipelines, REST API integrations, and structured data analysis using Pandas and MySQL. Skilled in backend systems, data transformation, and scalable application development. Passionate about data engineering and leveraging data-driven solutions to solve real-world problems.
-
+Hi — I’m a developer working on web apps, applied AI prototypes, and security tooling. I build projects that combine front-end interfaces and backend logic to solve practical problems and explore domain-specific simulations.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-prasad-patra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudraprasadpatra2020@gmail.com) 
 
